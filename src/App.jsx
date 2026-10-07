@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      <h1>Hello World!</h1>
+      <h1>Hello Rush Hour Clients!</h1>
       <p>Rush Hour Parking System — KFCH</p>
 
     <div>
